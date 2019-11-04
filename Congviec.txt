@@ -1,0 +1,10 @@
+Đầu bài:
+1: Tai lieu dac ta_BCDX Han muc_CIB_20191002(PD)_Final.docx
+2: Tai lieu dac ta_BCTD Han muc_CIB_20191002 (PD)_Final.docx
+Chi tiết các màn hình sau:
+1: Corp_CS_Country
+2: Corp_CS_ProductBusinessInOut
+3: Corp_CS_ProductBusiness
+4: Corp_CS_PartnerLarge
+5: CORP_CS_KhoanMucCoBan
+6: CORP_CS_KhoanMucKhac
